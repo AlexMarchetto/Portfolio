@@ -324,32 +324,7 @@ iframe{
     box-shadow: 12px 10px 61px -1px rgba(0,0,0,0.52);
     transition: .3s;
     border-radius: 5px;
-    position: relative;
 }
-
-.projet:hover{
-    opacity: 0.9;
-}
-
-.projet .see-more{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    color: white;
-    background-color: #31525B;
-    visibility: hidden;
-    padding: 15px;
-    transform: translate(-50%,-50%);
-
-    border-radius: 5px;
-}
-
-.projet:hover .see-more{
-    visibility: visible;
-    opacity: 1;
-}
-
-
 
 
 .projet div{
